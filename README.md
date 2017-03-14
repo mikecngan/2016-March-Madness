@@ -4,3 +4,7 @@ This script is a monte-carlo simulation which predicts the NCAA tournament not b
 ##2016 Conclusion
 1. Virginia is extremely under priced as the winner
 2. Top choices for "Cinderlla" this year: Wichita St., Yale, Gonzaga, Texas
+
+##2017 Conclusions (Updated 3/14/17)
+1. Gonzaga, Duke, and Kentucky are all very underpriced
+
